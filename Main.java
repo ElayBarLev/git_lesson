@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Welcome to por... gitHUB");
         Person person = new Person("popo",13,12);
         System.out.println(person);
+        System.out.println("pini is the Star of the show");
     }
 }
